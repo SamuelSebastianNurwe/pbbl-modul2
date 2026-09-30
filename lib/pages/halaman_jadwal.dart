@@ -32,12 +32,12 @@ class HalamanJadwal extends StatelessWidget {
                 _buatDaftarJadwal(
                   const [
                     'Basis Data 07.00',
-                    'ppbl 10.00',
+                    'Matematika Diskrit 10.00',
                   ],
                 ),
                 _buatDaftarJadwal(
                   const [
-                    'Ilmu Data Lanjut 08.00',
+                    'PPB Lanjut 08.00',
                     'Jaringan 13.00',
                   ],
                 ),
