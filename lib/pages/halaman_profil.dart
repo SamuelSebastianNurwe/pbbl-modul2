@@ -21,10 +21,10 @@ class HalamanProfil extends StatelessWidget {
         ),
         const SizedBox(height: 16),
         const Center(
-          child: Text('Nauval Rafi Adelia Putra'),
+          child: Text('Samuel Sebastian Nurwe'),
         ),
         const Center(
-          child: Text('NIM 707012400071'),
+          child: Text('NIM 707012400131'),
         ),
         const SizedBox(height: 24),
 
